@@ -16,3 +16,5 @@ gaido_features.json
 /gaido_progress/
 /gaido_progress_start.json
 /gaido_usage.json
+/gaido_agent_activity.jsonl
+/gaido_agents/

@@ -1,0 +1,6954 @@
+[
+ {
+  "rack": "E24-S8-1",
+  "sheet": "①E24-S8-1",
+  "spec": "W700xD1000xH2100(47u)",
+  "circuits": [
+   {
+    "label": "100V 20A （1）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 23,
+    "col_ports": 24
+   },
+   {
+    "label": "100V 20A （2）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 25,
+    "col_ports": 26
+   },
+   {
+    "label": "200V 30A （1）",
+    "volt": 200.0,
+    "breaker_a": 30.0,
+    "col_current": 27,
+    "col_ports": 28
+   }
+  ],
+  "bands": [
+   {
+    "face": "前面",
+    "top": 4,
+    "bottom": 50
+   },
+   {
+    "face": "背面",
+    "top": 64,
+    "bottom": 110
+   }
+  ],
+  "devices": [
+   {
+    "face": "前面",
+    "u_top": 5,
+    "u_bottom": 4,
+    "u_size": 2,
+    "text": "200V Rack PDU(H1918632)",
+    "name": "200V Rack PDU",
+    "asset_no": "H1918632",
+    "row": 46,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 30,
+    "u_bottom": 30,
+    "u_size": 1,
+    "text": "VxRail E560-3 (H1809662)",
+    "name": "VxRail E560-3",
+    "asset_no": "H1809662",
+    "row": 21,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 31,
+    "u_bottom": 31,
+    "u_size": 1,
+    "text": "VxRail E560-2 (H1809661)",
+    "name": "VxRail E560-2",
+    "asset_no": "H1809661",
+    "row": 20,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "VxRail E560-4 (H1809660)",
+    "name": "VxRail E560-4",
+    "asset_no": "H1809660",
+    "row": 19,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 34,
+    "u_bottom": 34,
+    "u_size": 1,
+    "text": "VxRail E560-1 (H1806678)",
+    "name": "VxRail E560-1",
+    "asset_no": "H1806678",
+    "row": 17,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 35,
+    "u_bottom": 35,
+    "u_size": 1,
+    "text": "VxRail E560-5 (H1806677)",
+    "name": "VxRail E560-5",
+    "asset_no": "H1806677",
+    "row": 16,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 36,
+    "u_bottom": 36,
+    "u_size": 1,
+    "text": "VxRail E560-6 (H1806676)",
+    "name": "VxRail E560-6",
+    "asset_no": "H1806676",
+    "row": 15,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 39,
+    "u_bottom": 39,
+    "u_size": 1,
+    "text": "Dell S4128T-1 (H1902245)",
+    "name": "Dell S4128T-1",
+    "asset_no": "H1902245",
+    "row": 12,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "DELLEMC R640-2 (H1714831)",
+    "name": "DELLEMC R640-2",
+    "asset_no": "H1714831",
+    "row": 13,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 11,
+    "u_bottom": 11,
+    "u_size": 1,
+    "text": "Unity XT 480F (H1911730)",
+    "name": "Unity XT 480F",
+    "asset_no": "H1911730",
+    "row": 40,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 14,
+    "u_bottom": 13,
+    "u_size": 2,
+    "text": "Unity XT 480F (H1908439)",
+    "name": "Unity XT 480F",
+    "asset_no": "H1908439",
+    "row": 37,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 17,
+    "u_bottom": 16,
+    "u_size": 2,
+    "text": "PowerSTORE5000X (H2005294)",
+    "name": "PowerSTORE5000X",
+    "asset_no": "H2005294",
+    "row": 34,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 21,
+    "u_bottom": 21,
+    "u_size": 1,
+    "text": "XC660 (H2401560)",
+    "name": "XC660",
+    "asset_no": "H2401560",
+    "row": 30,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 22,
+    "u_bottom": 22,
+    "u_size": 1,
+    "text": "XC660 (H2401559)",
+    "name": "XC660",
+    "asset_no": "H2401559",
+    "row": 29,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "XC660 (H2401558)",
+    "name": "XC660",
+    "asset_no": "H2401558",
+    "row": 27,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 5,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 48,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "asset_no": "",
+    "row": 64,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 5,
+    "u_bottom": 4,
+    "u_size": 2,
+    "text": "200V Rack PDU(H1918632)",
+    "name": "200V Rack PDU",
+    "asset_no": "H1918632",
+    "row": 106,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 30,
+    "u_bottom": 30,
+    "u_size": 1,
+    "text": "VxRail E560-3 (H1809662)",
+    "name": "VxRail E560-3",
+    "asset_no": "H1809662",
+    "row": 81,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 31,
+    "u_bottom": 31,
+    "u_size": 1,
+    "text": "VxRail E560-2 (H1809661)",
+    "name": "VxRail E560-2",
+    "asset_no": "H1809661",
+    "row": 80,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "VxRail E560-4 (H1809660)",
+    "name": "VxRail E560-4",
+    "asset_no": "H1809660",
+    "row": 79,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 34,
+    "u_bottom": 34,
+    "u_size": 1,
+    "text": "VxRail E560-1 (H1806678)",
+    "name": "VxRail E560-1",
+    "asset_no": "H1806678",
+    "row": 77,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 35,
+    "u_bottom": 35,
+    "u_size": 1,
+    "text": "VxRail E560-5 (H1806677)",
+    "name": "VxRail E560-5",
+    "asset_no": "H1806677",
+    "row": 76,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 36,
+    "u_bottom": 36,
+    "u_size": 1,
+    "text": "VxRail E560-6 (H1806676)",
+    "name": "VxRail E560-6",
+    "asset_no": "H1806676",
+    "row": 75,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 39,
+    "u_bottom": 39,
+    "u_size": 1,
+    "text": "Dell S4128T-1 (H1902245)",
+    "name": "Dell S4128T-1",
+    "asset_no": "H1902245",
+    "row": 72,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "DELLEMC R640-2 (H1714831)",
+    "name": "DELLEMC R640-2",
+    "asset_no": "H1714831",
+    "row": 73,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 10,
+    "u_bottom": 10,
+    "u_size": 1,
+    "text": "Unity XT 480F (H1911730)",
+    "name": "Unity XT 480F",
+    "asset_no": "H1911730",
+    "row": 101,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 14,
+    "u_bottom": 13,
+    "u_size": 2,
+    "text": "Unity XT 480F (H1908439)",
+    "name": "Unity XT 480F",
+    "asset_no": "H1908439",
+    "row": 97,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 17,
+    "u_bottom": 16,
+    "u_size": 2,
+    "text": "PowerSTORE5000X (H2005294)",
+    "name": "PowerSTORE5000X",
+    "asset_no": "H2005294",
+    "row": 94,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 19,
+    "u_bottom": 18,
+    "u_size": 2,
+    "text": "Huawei CE8860-4C-EI (H1703067)",
+    "name": "Huawei CE8860-4C-EI",
+    "asset_no": "H1703067",
+    "row": 92,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(背面)",
+    "name": "UTP 12port PatchPnael(背面)",
+    "asset_no": "",
+    "row": 65,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 108,
+    "source": "cell"
+   }
+  ],
+  "rows": [
+   {
+    "face": "前面",
+    "u": 46,
+    "row": 5,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "前面",
+    "u": 39,
+    "row": 12,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": "SW",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 38,
+    "row": 13,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": "Server",
+    "note": "故障のため電源未投入",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 36,
+    "row": 15,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "AdTech",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 35,
+    "row": 16,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "AdTech",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 34,
+    "row": 17,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "AdTech",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 32,
+    "row": 19,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "AdTech",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 31,
+    "row": 20,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "AdTech",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 30,
+    "row": 21,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "AdTech",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 19,
+    "row": 32,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 400,
+    "system": null,
+    "usage": "SW",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 2,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 17,
+    "row": 34,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 20,
+    "volt": 200,
+    "systems": 2,
+    "watt": 600,
+    "system": null,
+    "usage": "Storage",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 3,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 14,
+    "row": 37,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 20,
+    "volt": 100,
+    "systems": 2,
+    "watt": 400,
+    "system": null,
+    "usage": "Storage",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 2,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 2,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 10,
+    "row": 41,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 20,
+    "volt": 200,
+    "systems": 2,
+    "watt": 400,
+    "system": null,
+    "usage": "Storage",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 2,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 5,
+    "row": 46,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 10,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": "PDU",
+    "note": "L6-30R * 1回路×1口",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 3,
+    "row": 48,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   },
+   {
+    "face": "背面",
+    "u": 46,
+    "row": 65,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(背面)"
+   },
+   {
+    "face": "背面",
+    "u": 39,
+    "row": 72,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 4.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 100,
+    "system": "AdTech",
+    "usage": "SW",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 3,
+    "row": 108,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   }
+  ]
+ },
+ {
+  "rack": "E24-S8-2",
+  "sheet": "②E24-S8-2",
+  "spec": "W700xD1000xH2100(47u)",
+  "circuits": [
+   {
+    "label": "100V 20A （1）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 23,
+    "col_ports": 24
+   },
+   {
+    "label": "100V 20A （2）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 25,
+    "col_ports": 26
+   },
+   {
+    "label": "200V 30A （1）",
+    "volt": 200.0,
+    "breaker_a": 30.0,
+    "col_current": 27,
+    "col_ports": 28
+   }
+  ],
+  "bands": [
+   {
+    "face": "前面",
+    "top": 4,
+    "bottom": 50
+   },
+   {
+    "face": "背面",
+    "top": 64,
+    "bottom": 110
+   }
+  ],
+  "devices": [
+   {
+    "face": "前面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "asset_no": "",
+    "row": 4,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 5,
+    "u_bottom": 4,
+    "u_size": 2,
+    "text": "200V Rack PDU(H1918631)",
+    "name": "200V Rack PDU",
+    "asset_no": "H1918631",
+    "row": 46,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 22,
+    "u_bottom": 22,
+    "u_size": 1,
+    "text": "Huawei server (?)",
+    "name": "Huawei server (?)",
+    "asset_no": "",
+    "row": 29,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "HPE DX360-6 (H2008901))",
+    "name": "HPE DX360-6 )",
+    "asset_no": "H2008901",
+    "row": 27,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 26,
+    "u_bottom": 26,
+    "u_size": 1,
+    "text": "HPE DX360-5 (H2008900)",
+    "name": "HPE DX360-5",
+    "asset_no": "H2008900",
+    "row": 25,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 26,
+    "u_bottom": 26,
+    "u_size": 1,
+    "text": "HPE DX360-4 (H2008899)",
+    "name": "HPE DX360-4",
+    "asset_no": "H2008899",
+    "row": 25,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 27,
+    "u_bottom": 27,
+    "u_size": 1,
+    "text": "HPE DX360-3(H1914273)",
+    "name": "HPE DX360-3",
+    "asset_no": "H1914273",
+    "row": 24,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 28,
+    "u_bottom": 28,
+    "u_size": 1,
+    "text": "HPE DX360-2 (H1914272)",
+    "name": "HPE DX360-2",
+    "asset_no": "H1914272",
+    "row": 23,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 8,
+    "u_bottom": 7,
+    "u_size": 2,
+    "text": "OceanStor Drado 5000 V3(?)",
+    "name": "OceanStor Drado 5000 V3(?)",
+    "asset_no": "",
+    "row": 43,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "Dell S4148T-4 (H2005296)",
+    "name": "Dell S4148T-4",
+    "asset_no": "H2005296",
+    "row": 35,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "Dell S4148T-3 (H2005295)",
+    "name": "Dell S4148T-3",
+    "asset_no": "H2005295",
+    "row": 35,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "R770 (H2514995)",
+    "name": "R770",
+    "asset_no": "H2514995",
+    "row": 38,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 21,
+    "u_bottom": 20,
+    "u_size": 2,
+    "text": "Huawei switch (H1703067)",
+    "name": "Huawei switch",
+    "asset_no": "H1703067",
+    "row": 30,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 5,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 48,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "asset_no": "",
+    "row": 64,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 5,
+    "u_bottom": 4,
+    "u_size": 2,
+    "text": "200V Rack PDU(H1918631)",
+    "name": "200V Rack PDU",
+    "asset_no": "H1918631",
+    "row": 106,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 15,
+    "u_bottom": 15,
+    "u_size": 1,
+    "text": "Dell S4148T-4 (H2005296)",
+    "name": "Dell S4148T-4",
+    "asset_no": "H2005296",
+    "row": 96,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "Dell S4148T-3 (H2005295)",
+    "name": "Dell S4148T-3",
+    "asset_no": "H2005295",
+    "row": 95,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "HPE DX360-6 (H2008891)",
+    "name": "HPE DX360-6",
+    "asset_no": "H2008891",
+    "row": 87,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 25,
+    "u_bottom": 25,
+    "u_size": 1,
+    "text": "HPE DX360-5 (H2008890)",
+    "name": "HPE DX360-5",
+    "asset_no": "H2008890",
+    "row": 86,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 26,
+    "u_bottom": 26,
+    "u_size": 1,
+    "text": "HPE DX360-4 (H2008899)",
+    "name": "HPE DX360-4",
+    "asset_no": "H2008899",
+    "row": 85,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 27,
+    "u_bottom": 27,
+    "u_size": 1,
+    "text": "HPE DX360-3(H19142713)",
+    "name": "HPE DX360-3",
+    "asset_no": "H19142713",
+    "row": 84,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 28,
+    "u_bottom": 28,
+    "u_size": 1,
+    "text": "HPE DX360-2 (H1914272)",
+    "name": "HPE DX360-2",
+    "asset_no": "H1914272",
+    "row": 83,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 29,
+    "u_bottom": 29,
+    "u_size": 1,
+    "text": "HPE DX360-1 (H1914271)",
+    "name": "HPE DX360-1",
+    "asset_no": "H1914271",
+    "row": 82,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "Huawei server (H1703061)",
+    "name": "Huawei server",
+    "asset_no": "H1703061",
+    "row": 91,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "Huawei server (?)",
+    "name": "Huawei server (?)",
+    "asset_no": "",
+    "row": 91,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 8,
+    "u_bottom": 8,
+    "u_size": 1,
+    "text": "Huawei storage(?)",
+    "name": "Huawei storage(?)",
+    "asset_no": "",
+    "row": 103,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(背面)",
+    "name": "UTP 12port PatchPnael(背面)",
+    "asset_no": "",
+    "row": 65,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 108,
+    "source": "cell"
+   }
+  ],
+  "rows": [
+   {
+    "face": "前面",
+    "u": 46,
+    "row": 5,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "前面",
+    "u": 29,
+    "row": 22,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 28,
+    "row": 23,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 27,
+    "row": 24,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 26,
+    "row": 25,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 25,
+    "row": 26,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 24,
+    "row": 27,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 10,
+    "volt": 200,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 20,
+    "row": 31,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": null,
+    "volt": 200,
+    "systems": 1,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 19,
+    "row": 32,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": null,
+    "volt": 200,
+    "systems": 1,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 16,
+    "row": 35,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 4.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 100,
+    "system": null,
+    "usage": "SW",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 15,
+    "row": 36,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 4.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 100,
+    "system": null,
+    "usage": "SW",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 8,
+    "row": 43,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": null,
+    "volt": 200,
+    "systems": 1,
+    "watt": 300,
+    "system": null,
+    "usage": "Storage",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": 1.5,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 5,
+    "row": 46,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 10,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": "L6-30R * 1回路×1口",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 3,
+    "row": 48,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   },
+   {
+    "face": "背面",
+    "u": 46,
+    "row": 65,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(背面)"
+   },
+   {
+    "face": "背面",
+    "u": 3,
+    "row": 108,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   }
+  ]
+ },
+ {
+  "rack": "E24-S8-3",
+  "sheet": "③E24-S8-3",
+  "spec": "W700xD1000xH2100(47u)",
+  "circuits": [
+   {
+    "label": "100V 20A （1）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 23,
+    "col_ports": 24
+   },
+   {
+    "label": "100V 20A （2）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 25,
+    "col_ports": 26
+   }
+  ],
+  "bands": [
+   {
+    "face": "前面",
+    "top": 4,
+    "bottom": 50
+   },
+   {
+    "face": "背面",
+    "top": 64,
+    "bottom": 110
+   }
+  ],
+  "devices": [
+   {
+    "face": "前面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "asset_no": "",
+    "row": 4,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 7,
+    "u_bottom": 5,
+    "u_size": 3,
+    "text": "引き出し②",
+    "name": "引き出し②",
+    "asset_no": "",
+    "row": 44,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 11,
+    "u_bottom": 8,
+    "u_size": 4,
+    "text": "引き出し①",
+    "name": "引き出し①",
+    "asset_no": "",
+    "row": 40,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 35,
+    "u_bottom": 34,
+    "u_size": 2,
+    "text": "HuaweiCE8860 (H1703068)",
+    "name": "HuaweiCE8860",
+    "asset_no": "H1703068",
+    "row": 16,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 33,
+    "u_bottom": 33,
+    "u_size": 1,
+    "text": "Cisco Catalyst2960S (H1010126)",
+    "name": "Cisco Catalyst2960S",
+    "asset_no": "H1010126",
+    "row": 18,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "DELLEMC R640-4 (H1714609)S/N:768JCM2",
+    "name": "DELLEMC R640-4 S/N:768JCM2",
+    "asset_no": "H1714609",
+    "row": 34,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "DELLEMC R640-3 (H1709323)",
+    "name": "DELLEMC R640-3",
+    "asset_no": "H1709323",
+    "row": 33,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "DELLEMC R640-1 (H1714830)",
+    "name": "DELLEMC R640-1",
+    "asset_no": "H1714830",
+    "row": 31,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 25,
+    "u_bottom": 25,
+    "u_size": 1,
+    "text": "DELLEMC R630-1 (H1600791)",
+    "name": "DELLEMC R630-1",
+    "asset_no": "H1600791",
+    "row": 26,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 37,
+    "u_bottom": 37,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 14,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "⑤MX64(H1909168)",
+    "name": "⑤MX64",
+    "asset_no": "H1909168",
+    "row": 13,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "⑨MS120(H1909171)",
+    "name": "⑨MS120",
+    "asset_no": "H1909171",
+    "row": 13,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 39,
+    "u_bottom": 39,
+    "u_size": 1,
+    "text": "④MX64(H1909169)",
+    "name": "④MX64",
+    "asset_no": "H1909169",
+    "row": 12,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 40,
+    "u_bottom": 40,
+    "u_size": 1,
+    "text": "③MX64(H1909170)",
+    "name": "③MX64",
+    "asset_no": "H1909170",
+    "row": 11,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 41,
+    "u_bottom": 41,
+    "u_size": 1,
+    "text": "②MX64(H1916299)",
+    "name": "②MX64",
+    "asset_no": "H1916299",
+    "row": 10,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 42,
+    "u_bottom": 42,
+    "u_size": 1,
+    "text": "①MX64(H2006989)",
+    "name": "①MX64",
+    "asset_no": "H2006989",
+    "row": 9,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 39,
+    "u_bottom": 39,
+    "u_size": 1,
+    "text": "⑧MS120(H1909172)",
+    "name": "⑧MS120",
+    "asset_no": "H1909172",
+    "row": 12,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 40,
+    "u_bottom": 40,
+    "u_size": 1,
+    "text": "⑦MS120(H1909173)",
+    "name": "⑦MS120",
+    "asset_no": "H1909173",
+    "row": 11,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 40,
+    "u_bottom": 40,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 11,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 41,
+    "u_bottom": 41,
+    "u_size": 1,
+    "text": "⑥MS120(H2006987)",
+    "name": "⑥MS120",
+    "asset_no": "H2006987",
+    "row": 10,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 23,
+    "u_bottom": 23,
+    "u_size": 1,
+    "text": "Dell S4148F-1 (H2110083)",
+    "name": "Dell S4148F-1",
+    "asset_no": "H2110083",
+    "row": 28,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 22,
+    "u_bottom": 22,
+    "u_size": 1,
+    "text": "Dell S4148F-2 (H2110082)",
+    "name": "Dell S4148F-2",
+    "asset_no": "H2110082",
+    "row": 29,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "DELLEMC R640-5（H1709321）S/N:2LF9WL2",
+    "name": "DELLEMC R640-5S/N:2LF9WL2",
+    "asset_no": "H1709321",
+    "row": 35,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "Lj字アングル",
+    "name": "Lj字アングル",
+    "asset_no": "",
+    "row": 27,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 29,
+    "u_bottom": 29,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 22,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 30,
+    "u_bottom": 30,
+    "u_size": 1,
+    "text": "⑫Edge620(H2115656)",
+    "name": "⑫Edge620",
+    "asset_no": "H2115656",
+    "row": 21,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 31,
+    "u_bottom": 31,
+    "u_size": 1,
+    "text": "⑪Edge610(H2115655)",
+    "name": "⑪Edge610",
+    "asset_no": "H2115655",
+    "row": 20,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "⑩Edge610(H2115654)",
+    "name": "⑩Edge610",
+    "asset_no": "H2115654",
+    "row": 19,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "⑬Edge620(H2115657)",
+    "name": "⑬Edge620",
+    "asset_no": "H2115657",
+    "row": 19,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 5,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 48,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 37,
+    "u_bottom": 37,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 74,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 35,
+    "u_bottom": 34,
+    "u_size": 2,
+    "text": "HuaweiCE8860 (H1703068)",
+    "name": "HuaweiCE8860",
+    "asset_no": "H1703068",
+    "row": 76,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 33,
+    "u_bottom": 33,
+    "u_size": 1,
+    "text": "Cisco Catalyst2960S (H1010126)",
+    "name": "Cisco Catalyst2960S",
+    "asset_no": "H1010126",
+    "row": 78,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "DELLEMC R640-1 (H1714830)",
+    "name": "DELLEMC R640-1",
+    "asset_no": "H1714830",
+    "row": 91,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "DELLEMC R640-3 (H1709323)",
+    "name": "DELLEMC R640-3",
+    "asset_no": "H1709323",
+    "row": 93,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 18,
+    "u_bottom": 17,
+    "u_size": 2,
+    "text": "DELLEMC R640-4 (H1714609)",
+    "name": "DELLEMC R640-4",
+    "asset_no": "H1714609",
+    "row": 93,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 26,
+    "u_bottom": 26,
+    "u_size": 1,
+    "text": "DELLEMC R630-1 (H1600791)",
+    "name": "DELLEMC R630-1",
+    "asset_no": "H1600791",
+    "row": 85,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 39,
+    "u_bottom": 39,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 72,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 42,
+    "u_bottom": 40,
+    "u_size": 3,
+    "text": "①ONU",
+    "name": "①ONU",
+    "asset_no": "",
+    "row": 69,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 41,
+    "u_bottom": 41,
+    "u_size": 1,
+    "text": "④MR33(H1909176)",
+    "name": "④MR33",
+    "asset_no": "H1909176",
+    "row": 70,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 42,
+    "u_bottom": 42,
+    "u_size": 1,
+    "text": "③MR33(H1909174)",
+    "name": "③MR33",
+    "asset_no": "H1909174",
+    "row": 69,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 43,
+    "u_bottom": 43,
+    "u_size": 1,
+    "text": "②MR33(H1909175)",
+    "name": "②MR33",
+    "asset_no": "H1909175",
+    "row": 68,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "⑦MS2203(H1909161)",
+    "name": "⑦MS2203",
+    "asset_no": "H1909161",
+    "row": 73,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "⑧MS2203(H1909162)",
+    "name": "⑧MS2203",
+    "asset_no": "H1909162",
+    "row": 73,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 40,
+    "u_bottom": 40,
+    "u_size": 1,
+    "text": "⑨MR32(1909154)",
+    "name": "⑨MR32(1909154)",
+    "asset_no": "",
+    "row": 71,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 7,
+    "u_bottom": 6,
+    "u_size": 2,
+    "text": "引き出し②　背面",
+    "name": "引き出し②　背面",
+    "asset_no": "",
+    "row": 104,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 11,
+    "u_bottom": 8,
+    "u_size": 4,
+    "text": "引き出し①　背面",
+    "name": "引き出し①　背面",
+    "asset_no": "",
+    "row": 100,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 22,
+    "u_bottom": 22,
+    "u_size": 1,
+    "text": "Dell S4148F-2(H2110082)",
+    "name": "Dell S4148F-2",
+    "asset_no": "H2110082",
+    "row": 89,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 23,
+    "u_bottom": 23,
+    "u_size": 1,
+    "text": "Dell S4148F-1(H2110083)",
+    "name": "Dell S4148F-1",
+    "asset_no": "H2110083",
+    "row": 88,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "DELLEMC R640-5 (H1709321)",
+    "name": "DELLEMC R640-5",
+    "asset_no": "H1709321",
+    "row": 95,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "Lj字アングル",
+    "name": "Lj字アングル",
+    "asset_no": "",
+    "row": 87,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 29,
+    "u_bottom": 29,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 82,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 30,
+    "u_bottom": 30,
+    "u_size": 1,
+    "text": "⑫Edge620(H2115656)",
+    "name": "⑫Edge620",
+    "asset_no": "H2115656",
+    "row": 81,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 30,
+    "u_bottom": 30,
+    "u_size": 1,
+    "text": "⑮Edge610 LTE(H2115659)",
+    "name": "⑮Edge610 LTE",
+    "asset_no": "H2115659",
+    "row": 81,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 31,
+    "u_bottom": 31,
+    "u_size": 1,
+    "text": "⑪Edge610(H2115655)",
+    "name": "⑪Edge610",
+    "asset_no": "H2115655",
+    "row": 80,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 31,
+    "u_bottom": 31,
+    "u_size": 1,
+    "text": "⑭Edge610 LTE(H2115658)",
+    "name": "⑭Edge610 LTE",
+    "asset_no": "H2115658",
+    "row": 80,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "⑩Edge610(H2115654)",
+    "name": "⑩Edge610",
+    "asset_no": "H2115654",
+    "row": 79,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "⑬Edge620(H2115657)",
+    "name": "⑬Edge620",
+    "asset_no": "H2115657",
+    "row": 79,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 39,
+    "u_bottom": 39,
+    "u_size": 1,
+    "text": "MS120 S/N:Q2BX-FCGJ-F9GF",
+    "name": "MS120 S/N:Q2BX-FCGJ-F9GF",
+    "asset_no": "",
+    "row": 72,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(背面)",
+    "name": "UTP 12port PatchPnael(背面)",
+    "asset_no": "",
+    "row": 65,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 108,
+    "source": "cell"
+   }
+  ],
+  "rows": [
+   {
+    "face": "前面",
+    "u": 46,
+    "row": 5,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "前面",
+    "u": 45,
+    "row": 6,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1,
+    "volt": 100,
+    "systems": 1,
+    "watt": 18,
+    "system": "Meraki",
+    "usage": "Firewall",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.18,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 44,
+    "row": 7,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1,
+    "volt": 100,
+    "systems": 1,
+    "watt": 18,
+    "system": "Meraki",
+    "usage": "Firewall",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.18,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 43,
+    "row": 8,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1,
+    "volt": 100,
+    "systems": 1,
+    "watt": 18,
+    "system": "Meraki",
+    "usage": "Firewall",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.18,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 42,
+    "row": 9,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1,
+    "volt": 100,
+    "systems": 1,
+    "watt": 18,
+    "system": "Meraki",
+    "usage": "Firewall",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.18,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 41,
+    "row": 10,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1,
+    "volt": 100,
+    "systems": 1,
+    "watt": 18,
+    "system": "Meraki",
+    "usage": "Firewall",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.18,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 40,
+    "row": 11,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 88,
+    "system": "Meraki",
+    "usage": "Switch",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.88,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 39,
+    "row": 12,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 88,
+    "system": "Meraki",
+    "usage": "Switch",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.88,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 38,
+    "row": 13,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 88,
+    "system": "Meraki",
+    "usage": "Switch",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.88,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 37,
+    "row": 14,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 88,
+    "system": "Meraki",
+    "usage": "Switch",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.88,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 34,
+    "row": 17,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": null,
+    "system": "VMWare",
+    "usage": "SDWAN",
+    "note": "2022/5 取り外し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 33,
+    "row": 18,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 26,
+    "system": "VMWare",
+    "usage": "SDWAN",
+    "note": "2022/3 追加",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.26,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 32,
+    "row": 19,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 30,
+    "system": "VMWare",
+    "usage": "SDWAN",
+    "note": "2022/3 追加",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.3,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 31,
+    "row": 20,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 30,
+    "system": "VMWare",
+    "usage": "SDWAN",
+    "note": "2022/3 追加",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.3,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 25,
+    "row": 26,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 23,
+    "row": 28,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 22,
+    "row": 29,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 20,
+    "row": 31,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 18,
+    "row": 33,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 17,
+    "row": 34,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 16,
+    "row": 35,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": "10/20 新規搭載予定",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 11,
+    "row": 40,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 5,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 7,
+    "row": 44,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 5,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 3,
+    "row": 48,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   },
+   {
+    "face": "背面",
+    "u": 46,
+    "row": 65,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(背面)"
+   },
+   {
+    "face": "背面",
+    "u": 45,
+    "row": 66,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 0.5,
+    "volt": 1,
+    "systems": 1,
+    "watt": 30,
+    "system": "Internet",
+    "usage": "ONU",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.3,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 44,
+    "row": 67,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 0.4,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Meraki",
+    "usage": "AccessPoint",
+    "note": "PoEのため電源接続無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 43,
+    "row": 68,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 0.4,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Meraki",
+    "usage": "AccessPoint",
+    "note": "※移設元ラックに機器無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 42,
+    "row": 69,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 0.4,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Meraki",
+    "usage": "AccessPoint",
+    "note": "※移設元ラックに機器無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 39,
+    "row": 72,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Meraki",
+    "usage": "Switch",
+    "note": "※移設元ラックに機器無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 38,
+    "row": 73,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Meraki",
+    "usage": "Switch",
+    "note": "※移設元ラックに機器無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 37,
+    "row": 74,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 0.5,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Meraki",
+    "usage": "AccessPoint",
+    "note": "※移設元ラックに機器無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 35,
+    "row": 76,
+    "mount_kit": "〇",
+    "belt": null,
+    "weight": 10,
+    "volt": 100,
+    "systems": 1,
+    "watt": 200,
+    "system": null,
+    "usage": "Server",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 1,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 1,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 33,
+    "row": 78,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 5,
+    "volt": 100,
+    "systems": 1,
+    "watt": 50,
+    "system": null,
+    "usage": "Server",
+    "note": "※移設元ラックに機器無し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.5,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 31,
+    "row": 80,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 26,
+    "system": "VMWare",
+    "usage": "SDWAN",
+    "note": "2022/12 取り外し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.26,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 30,
+    "row": 81,
+    "mount_kit": "棚",
+    "belt": "１本",
+    "weight": 1.3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 26,
+    "system": "VMWare",
+    "usage": "SDWAN",
+    "note": "2022/12 取り外し",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.26,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 23,
+    "row": 88,
+    "mount_kit": "〇",
+    "belt": null,
+    "weight": 4.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.5,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 22,
+    "row": 89,
+    "mount_kit": "〇",
+    "belt": null,
+    "weight": 4.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.5,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "背面",
+    "u": 3,
+    "row": 108,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   }
+  ]
+ },
+ {
+  "rack": "E24-S8-4",
+  "sheet": "④E24-S8-4（検証NW）",
+  "spec": "W700xD1000xH2100(47u)",
+  "circuits": [
+   {
+    "label": "100V 20A （1）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 23,
+    "col_ports": 24
+   },
+   {
+    "label": "100V 20A （2）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 25,
+    "col_ports": 26
+   }
+  ],
+  "bands": [
+   {
+    "face": "前面",
+    "top": 4,
+    "bottom": 50
+   },
+   {
+    "face": "背面",
+    "top": 64,
+    "bottom": 110
+   }
+  ],
+  "devices": [
+   {
+    "face": "前面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "asset_no": "",
+    "row": 4,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 39,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 37,
+    "u_bottom": 37,
+    "u_size": 1,
+    "text": "Cisco UCS (H1608827)",
+    "name": "Cisco UCS",
+    "asset_no": "H1608827",
+    "row": 14,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 36,
+    "u_bottom": 36,
+    "u_size": 1,
+    "text": "Cisco UCS (H1608826)",
+    "name": "Cisco UCS",
+    "asset_no": "H1608826",
+    "row": 15,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 35,
+    "u_bottom": 35,
+    "u_size": 1,
+    "text": "Cisco UCS (H1608825)",
+    "name": "Cisco UCS",
+    "asset_no": "H1608825",
+    "row": 16,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 33,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 21,
+    "u_bottom": 21,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 30,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 37,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 35,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 29,
+    "u_bottom": 29,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 22,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 28,
+    "u_bottom": 28,
+    "u_size": 1,
+    "text": "DELL EMC S4128T (H1902246)",
+    "name": "DELL EMC S4128T",
+    "asset_no": "H1902246",
+    "row": 23,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 25,
+    "u_bottom": 25,
+    "u_size": 1,
+    "text": "Cisco 2511 (H1909150)",
+    "name": "Cisco 2511",
+    "asset_no": "H1909150",
+    "row": 26,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "Catalyst 2950(H0700846)",
+    "name": "Catalyst 2950",
+    "asset_no": "H0700846",
+    "row": 27,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 22,
+    "u_bottom": 22,
+    "u_size": 1,
+    "text": "Catalyst Edge C8200-1N-4T(H2310061)",
+    "name": "Catalyst Edge C8200-1N-4T",
+    "asset_no": "H2310061",
+    "row": 29,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "②ASA5506-X(H2101465)",
+    "name": "②ASA5506-X",
+    "asset_no": "H2101465",
+    "row": 31,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "①FPR-1000 series(H2105553)",
+    "name": "①FPR-1000 series",
+    "asset_no": "H2105553",
+    "row": 31,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 19,
+    "u_bottom": 19,
+    "u_size": 1,
+    "text": "Catalyst Edge C8300-1N1S-6T(H2310062)",
+    "name": "Catalyst Edge C8300-1N1S-6T",
+    "asset_no": "H2310062",
+    "row": 32,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "UCS C200 M2(H1208315)",
+    "name": "UCS C200 M2",
+    "asset_no": "H1208315",
+    "row": 34,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "UCS C220 M3(H1505786)",
+    "name": "UCS C220 M3",
+    "asset_no": "H1505786",
+    "row": 35,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "Catalyst 9300 48(H1707966)",
+    "name": "Catalyst 9300 48",
+    "asset_no": "H1707966",
+    "row": 38,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "Catalyst 9300 48(H1808658)",
+    "name": "Catalyst 9300 48",
+    "asset_no": "H1808658",
+    "row": 39,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 8,
+    "u_bottom": 8,
+    "u_size": 1,
+    "text": "CE6870-48S6CQ-EI(H1703070)",
+    "name": "CE6870-48S6CQ-EI",
+    "asset_no": "H1703070",
+    "row": 43,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 42,
+    "u_bottom": 42,
+    "u_size": 1,
+    "text": "Catalyst 2950(H0700847)",
+    "name": "Catalyst 2950",
+    "asset_no": "H0700847",
+    "row": 9,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 5,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 48,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "asset_no": "",
+    "row": 64,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 99,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 93,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 21,
+    "u_bottom": 21,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 90,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 97,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 95,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 29,
+    "u_bottom": 29,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 82,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 99,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 37,
+    "u_bottom": 37,
+    "u_size": 1,
+    "text": "Cisco UCS (H1608827)",
+    "name": "Cisco UCS",
+    "asset_no": "H1608827",
+    "row": 74,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 36,
+    "u_bottom": 36,
+    "u_size": 1,
+    "text": "Cisco UCS (H1608826)",
+    "name": "Cisco UCS",
+    "asset_no": "H1608826",
+    "row": 75,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 35,
+    "u_bottom": 35,
+    "u_size": 1,
+    "text": "Cisco UCS (H1608825)",
+    "name": "Cisco UCS",
+    "asset_no": "H1608825",
+    "row": 76,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 93,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 21,
+    "u_bottom": 21,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 90,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 97,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 95,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 29,
+    "u_bottom": 29,
+    "u_size": 1,
+    "text": "棚板",
+    "name": "棚板",
+    "asset_no": "",
+    "row": 82,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 28,
+    "u_bottom": 28,
+    "u_size": 1,
+    "text": "DELL EMC S4128T (H1902246)",
+    "name": "DELL EMC S4128T",
+    "asset_no": "H1902246",
+    "row": 83,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 38,
+    "u_bottom": 38,
+    "u_size": 1,
+    "text": "Dorado",
+    "name": "Dorado",
+    "asset_no": "",
+    "row": 73,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 25,
+    "u_bottom": 25,
+    "u_size": 1,
+    "text": "Cisco 2511 (H1909150)",
+    "name": "Cisco 2511",
+    "asset_no": "H1909150",
+    "row": 86,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "Catalyst 2950(H0700846)",
+    "name": "Catalyst 2950",
+    "asset_no": "H0700846",
+    "row": 87,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 22,
+    "u_bottom": 22,
+    "u_size": 1,
+    "text": "Catalyst Edge C8200-1N-4T(H2310061)",
+    "name": "Catalyst Edge C8200-1N-4T",
+    "asset_no": "H2310061",
+    "row": 89,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "ASA5506-X(H2101465)",
+    "name": "ASA5506-X",
+    "asset_no": "H2101465",
+    "row": 91,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "FPR-1000 series(H2105553)",
+    "name": "FPR-1000 series",
+    "asset_no": "H2105553",
+    "row": 91,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 19,
+    "u_bottom": 19,
+    "u_size": 1,
+    "text": "Catalyst Edge C8300-1N1S-6T(H2310062)",
+    "name": "Catalyst Edge C8300-1N1S-6T",
+    "asset_no": "H2310062",
+    "row": 92,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "UCS C200 M2(H1208315)",
+    "name": "UCS C200 M2",
+    "asset_no": "H1208315",
+    "row": 94,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "UCS C220 M3(H1505786)",
+    "name": "UCS C220 M3",
+    "asset_no": "H1505786",
+    "row": 95,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "Catalyst 9300 48(H1707966)",
+    "name": "Catalyst 9300 48",
+    "asset_no": "H1707966",
+    "row": 98,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "Catalyst 9300 48(H1808658)",
+    "name": "Catalyst 9300 48",
+    "asset_no": "H1808658",
+    "row": 99,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 8,
+    "u_bottom": 8,
+    "u_size": 1,
+    "text": "CE6870-48S6CQ-EI(H1703070)",
+    "name": "CE6870-48S6CQ-EI",
+    "asset_no": "H1703070",
+    "row": 103,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 42,
+    "u_bottom": 42,
+    "u_size": 1,
+    "text": "Catalyst 2950(H0700847)",
+    "name": "Catalyst 2950",
+    "asset_no": "H0700847",
+    "row": 69,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 65,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 108,
+    "source": "cell"
+   }
+  ],
+  "rows": [
+   {
+    "face": "前面",
+    "u": 46,
+    "row": 5,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "前面",
+    "u": 42,
+    "row": 9,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 3,
+    "volt": 100,
+    "systems": 1,
+    "watt": 20,
+    "system": "検証System",
+    "usage": "スイッチ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 0.2,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 38,
+    "row": 13,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": "故障のため倉庫保管",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 37,
+    "row": 14,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": "ラックマウント",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 36,
+    "row": 15,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": "ラックマウント",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 35,
+    "row": 16,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": null,
+    "usage": "Server",
+    "note": "ラックマウント",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 28,
+    "row": 23,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 1,
+    "watt": 300,
+    "system": null,
+    "usage": "スイッチ",
+    "note": "ラックマウント 7/7電源接続変更",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 2.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 25,
+    "row": 26,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 40,
+    "system": "検証System",
+    "usage": "ルータ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.4,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 24,
+    "row": 27,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 3,
+    "volt": 100,
+    "systems": 1,
+    "watt": null,
+    "system": "検証System",
+    "usage": "スイッチ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 22,
+    "row": 29,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 4.54,
+    "volt": 100,
+    "systems": 1,
+    "watt": 100,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 1,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 21,
+    "row": 30,
+    "mount_kit": "①",
+    "belt": null,
+    "weight": 1.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 100,
+    "system": "検証System",
+    "usage": "ルータ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 1,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 20,
+    "row": 31,
+    "mount_kit": "②",
+    "belt": null,
+    "weight": 3.18,
+    "volt": 5,
+    "systems": 1,
+    "watt": 18,
+    "system": "検証System",
+    "usage": "ルータ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3.6,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 19,
+    "row": 32,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9,
+    "volt": 100,
+    "systems": 1,
+    "watt": 82,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 0.82,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 17,
+    "row": 34,
+    "mount_kit": "棚",
+    "belt": 1,
+    "weight": 17.2,
+    "volt": 100,
+    "systems": 1,
+    "watt": 400,
+    "system": "検証System",
+    "usage": "サーバ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 4,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 15,
+    "row": 36,
+    "mount_kit": "棚",
+    "belt": 1,
+    "weight": 17.2,
+    "volt": 100,
+    "systems": 1,
+    "watt": 250,
+    "system": "検証System",
+    "usage": "サーバ",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 2.5,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 13,
+    "row": 38,
+    "mount_kit": "棚",
+    "belt": "1本",
+    "weight": 7.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 400,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 4,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 12,
+    "row": 39,
+    "mount_kit": "棚",
+    "belt": "1本",
+    "weight": 7.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 400,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 4,
+      "ports": 1
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 7,
+    "row": 44,
+    "mount_kit": "前留",
+    "belt": null,
+    "weight": 8.6,
+    "volt": 100,
+    "systems": 1,
+    "watt": 333,
+    "system": "検証System",
+    "usage": "スイッチ",
+    "note": "5/11 電源投入済",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3.3,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 3,
+    "row": 48,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   },
+   {
+    "face": "背面",
+    "u": 46,
+    "row": 65,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "背面",
+    "u": 3,
+    "row": 108,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   }
+  ]
+ },
+ {
+  "rack": "E24-S8-5",
+  "sheet": "⑤E24-S8-5（検証NW）",
+  "spec": "W700xD1000xH2100(47u)",
+  "circuits": [
+   {
+    "label": "100V 20A （1）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 23,
+    "col_ports": 24
+   },
+   {
+    "label": "100V 20A （2）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 25,
+    "col_ports": 26
+   },
+   {
+    "label": "200V 30A （1）",
+    "volt": 200.0,
+    "breaker_a": 30.0,
+    "col_current": 27,
+    "col_ports": 28
+   }
+  ],
+  "bands": [
+   {
+    "face": "前面",
+    "top": 4,
+    "bottom": 50
+   },
+   {
+    "face": "背面",
+    "top": 64,
+    "bottom": 110
+   }
+  ],
+  "devices": [
+   {
+    "face": "前面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "asset_no": "",
+    "row": 4,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 11,
+    "u_bottom": 10,
+    "u_size": 2,
+    "text": "PowerProtect DD3300(H2309516)",
+    "name": "PowerProtect DD3300",
+    "asset_no": "H2309516",
+    "row": 40,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 15,
+    "u_bottom": 15,
+    "u_size": 1,
+    "text": "XC450(H2309517)",
+    "name": "XC450",
+    "asset_no": "H2309517",
+    "row": 36,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 33,
+    "u_bottom": 33,
+    "u_size": 1,
+    "text": "Catalyst9300(H1808621)",
+    "name": "Catalyst9300",
+    "asset_no": "H1808621",
+    "row": 18,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "S4048-ON()",
+    "name": "S4048-ON()",
+    "asset_no": "",
+    "row": 19,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 31,
+    "u_bottom": 30,
+    "u_size": 2,
+    "text": "S4048-ON()",
+    "name": "S4048-ON()",
+    "asset_no": "",
+    "row": 20,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "XC640(H1815865)",
+    "name": "XC640",
+    "asset_no": "H1815865",
+    "row": 34,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 19,
+    "u_bottom": 19,
+    "u_size": 1,
+    "text": "XC640(H1813868)",
+    "name": "XC640",
+    "asset_no": "H1813868",
+    "row": 32,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "XC640(H1813867)",
+    "name": "XC640",
+    "asset_no": "H1813867",
+    "row": 33,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "XC450(H2309518)",
+    "name": "XC450",
+    "asset_no": "H2309518",
+    "row": 37,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "XC450(H2309519)",
+    "name": "XC450",
+    "asset_no": "H2309519",
+    "row": 38,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 5,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 48,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ（背面）",
+    "asset_no": "",
+    "row": 64,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 11,
+    "u_bottom": 10,
+    "u_size": 2,
+    "text": "DD3300(H2309516)",
+    "name": "DD3300",
+    "asset_no": "H2309516",
+    "row": 100,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 15,
+    "u_bottom": 15,
+    "u_size": 1,
+    "text": "XC450(H23099517)",
+    "name": "XC450",
+    "asset_no": "H23099517",
+    "row": 96,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 33,
+    "u_bottom": 33,
+    "u_size": 1,
+    "text": "Catalyst9300(H1808621)",
+    "name": "Catalyst9300",
+    "asset_no": "H1808621",
+    "row": 78,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 32,
+    "u_bottom": 32,
+    "u_size": 1,
+    "text": "S4048-ON()",
+    "name": "S4048-ON()",
+    "asset_no": "",
+    "row": 79,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 31,
+    "u_bottom": 30,
+    "u_size": 2,
+    "text": "S4048-ON()",
+    "name": "S4048-ON()",
+    "asset_no": "",
+    "row": 80,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "XC640(H1815885)",
+    "name": "XC640",
+    "asset_no": "H1815885",
+    "row": 94,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 19,
+    "u_bottom": 19,
+    "u_size": 1,
+    "text": "XC640(H1813868)",
+    "name": "XC640",
+    "asset_no": "H1813868",
+    "row": 92,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 18,
+    "u_bottom": 18,
+    "u_size": 1,
+    "text": "XC640(H1813867)",
+    "name": "XC640",
+    "asset_no": "H1813867",
+    "row": 93,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 22,
+    "u_bottom": 21,
+    "u_size": 2,
+    "text": "Power Edge660(H2401555)",
+    "name": "Power Edge660",
+    "asset_no": "H2401555",
+    "row": 89,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "XC450(H23099518)",
+    "name": "XC450",
+    "asset_no": "H23099518",
+    "row": 97,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "XC450(H23099519)",
+    "name": "XC450",
+    "asset_no": "H23099519",
+    "row": 98,
+    "source": "shape"
+   },
+   {
+    "face": "背面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(背面)",
+    "name": "UTP 12port PatchPnael(背面)",
+    "asset_no": "",
+    "row": 65,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 3,
+    "u_bottom": 1,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 108,
+    "source": "cell"
+   }
+  ],
+  "rows": [
+   {
+    "face": "前面",
+    "u": 46,
+    "row": 5,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "前面",
+    "u": 32,
+    "row": 19,
+    "mount_kit": "〇",
+    "belt": null,
+    "weight": 24,
+    "volt": 100,
+    "systems": 1,
+    "watt": 400,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 4,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 31,
+    "row": 20,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 8.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 100,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 1,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 30,
+    "row": 21,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 8.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 100,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 1,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 21,
+    "row": 30,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 19.5,
+    "volt": 100,
+    "systems": 1,
+    "watt": 100,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 1,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 19,
+    "row": 32,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 21.9,
+    "volt": 100,
+    "systems": 1,
+    "watt": 200,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 2,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 18,
+    "row": 33,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 21.9,
+    "volt": 100,
+    "systems": 1,
+    "watt": 200,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 2,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 17,
+    "row": 34,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 21.9,
+    "volt": 100,
+    "systems": 1,
+    "watt": 200,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 2,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 15,
+    "row": 36,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 10,
+    "volt": 100,
+    "systems": 2,
+    "watt": 150,
+    "system": null,
+    "usage": "HCI",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 1.5,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 14,
+    "row": 37,
+    "mount_kit": "〇",
+    "belt": null,
+    "weight": 10,
+    "volt": 100,
+    "systems": 2,
+    "watt": 150,
+    "system": null,
+    "usage": "HCI",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 1.5,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 13,
+    "row": 38,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 10,
+    "volt": 100,
+    "systems": 2,
+    "watt": 150,
+    "system": null,
+    "usage": "HCI",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 1.5,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 11,
+    "row": 40,
+    "mount_kit": null,
+    "belt": null,
+    "weight": 20,
+    "volt": 100,
+    "systems": 2,
+    "watt": 200,
+    "system": null,
+    "usage": "Storage",
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 2,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": ""
+   },
+   {
+    "face": "前面",
+    "u": 3,
+    "row": 48,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   },
+   {
+    "face": "背面",
+    "u": 46,
+    "row": 65,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(背面)"
+   },
+   {
+    "face": "背面",
+    "u": 3,
+    "row": 108,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   }
+  ]
+ },
+ {
+  "rack": "E24-S6-1",
+  "sheet": "⑥E24-S6-1",
+  "spec": "W700xD1000xH2100(47u)",
+  "circuits": [
+   {
+    "label": "100V 20A （1）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 23,
+    "col_ports": 24
+   },
+   {
+    "label": "100V 20A （2）",
+    "volt": 100.0,
+    "breaker_a": 20.0,
+    "col_current": 25,
+    "col_ports": 26
+   },
+   {
+    "label": "200V 30A （1）",
+    "volt": 200.0,
+    "breaker_a": 30.0,
+    "col_current": 27,
+    "col_ports": 28
+   }
+  ],
+  "bands": [
+   {
+    "face": "前面",
+    "top": 4,
+    "bottom": 50
+   },
+   {
+    "face": "背面",
+    "top": 64,
+    "bottom": 110
+   }
+  ],
+  "devices": [
+   {
+    "face": "前面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "name": "ｹｰﾌﾞﾙﾏﾈｰｼﾞﾒﾝﾄ",
+    "asset_no": "",
+    "row": 4,
+    "source": "shape"
+   },
+   {
+    "face": "前面",
+    "u_top": 46,
+    "u_bottom": 46,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(前面)",
+    "name": "UTP 12port PatchPnael(前面)",
+    "asset_no": "",
+    "row": 5,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 26,
+    "u_bottom": 26,
+    "u_size": 1,
+    "text": "C9300 (H1707967)",
+    "name": "C9300",
+    "asset_no": "H1707967",
+    "row": 25,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 25,
+    "u_bottom": 25,
+    "u_size": 1,
+    "text": "C9300 (H1707965)",
+    "name": "C9300",
+    "asset_no": "H1707965",
+    "row": 26,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 21,
+    "u_bottom": 21,
+    "u_size": 1,
+    "text": "XC660 (H2413137)",
+    "name": "XC660",
+    "asset_no": "H2413137",
+    "row": 30,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "XC660 (H2413138)",
+    "name": "XC660",
+    "asset_no": "H2413138",
+    "row": 31,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 19,
+    "u_bottom": 19,
+    "u_size": 1,
+    "text": "XC660 (H2413139)",
+    "name": "XC660",
+    "asset_no": "H2413139",
+    "row": 32,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "XC430 (H1607661)",
+    "name": "XC430",
+    "asset_no": "H1607661",
+    "row": 34,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "XC430 (H1607943)",
+    "name": "XC430",
+    "asset_no": "H1607943",
+    "row": 35,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 15,
+    "u_bottom": 15,
+    "u_size": 1,
+    "text": "XC430 (H1607945)",
+    "name": "XC430",
+    "asset_no": "H1607945",
+    "row": 36,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "XC430 (H1607944)",
+    "name": "XC430",
+    "asset_no": "H1607944",
+    "row": 37,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "CE6810 (H1703076)",
+    "name": "CE6810",
+    "asset_no": "H1703076",
+    "row": 38,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "S4128F (H1902243)",
+    "name": "S4128F",
+    "asset_no": "H1902243",
+    "row": 39,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 8,
+    "u_bottom": 5,
+    "u_size": 4,
+    "text": "Precision 7960 Tower （H2509430）",
+    "name": "Precision 7960 Tower",
+    "asset_no": "H2509430",
+    "row": 43,
+    "source": "cell"
+   },
+   {
+    "face": "前面",
+    "u_top": 4,
+    "u_bottom": 2,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 47,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 47,
+    "u_bottom": 47,
+    "u_size": 1,
+    "text": "UTP 12port PatchPnael(背面)",
+    "name": "UTP 12port PatchPnael(背面)",
+    "asset_no": "",
+    "row": 64,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 27,
+    "u_bottom": 27,
+    "u_size": 1,
+    "text": "C9300 (H1707967)",
+    "name": "C9300",
+    "asset_no": "H1707967",
+    "row": 84,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 26,
+    "u_bottom": 26,
+    "u_size": 1,
+    "text": "C9300 (H1707965)",
+    "name": "C9300",
+    "asset_no": "H1707965",
+    "row": 85,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 24,
+    "u_bottom": 24,
+    "u_size": 1,
+    "text": "DNA CENTER (H1808620)",
+    "name": "DNA CENTER",
+    "asset_no": "H1808620",
+    "row": 87,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 21,
+    "u_bottom": 21,
+    "u_size": 1,
+    "text": "XC660 (H2413137)",
+    "name": "XC660",
+    "asset_no": "H2413137",
+    "row": 90,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 20,
+    "u_bottom": 20,
+    "u_size": 1,
+    "text": "XC660 (H2413138)",
+    "name": "XC660",
+    "asset_no": "H2413138",
+    "row": 91,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 19,
+    "u_bottom": 19,
+    "u_size": 1,
+    "text": "XC660 (H2413139)",
+    "name": "XC660",
+    "asset_no": "H2413139",
+    "row": 92,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 17,
+    "u_bottom": 17,
+    "u_size": 1,
+    "text": "XC430 (H1607661)",
+    "name": "XC430",
+    "asset_no": "H1607661",
+    "row": 94,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 16,
+    "u_bottom": 16,
+    "u_size": 1,
+    "text": "XC430 (H1607943)",
+    "name": "XC430",
+    "asset_no": "H1607943",
+    "row": 95,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 15,
+    "u_bottom": 15,
+    "u_size": 1,
+    "text": "XC430 (H1607945)",
+    "name": "XC430",
+    "asset_no": "H1607945",
+    "row": 96,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 14,
+    "u_bottom": 14,
+    "u_size": 1,
+    "text": "XC430 (H1607944)",
+    "name": "XC430",
+    "asset_no": "H1607944",
+    "row": 97,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 13,
+    "u_bottom": 13,
+    "u_size": 1,
+    "text": "CE6810 (H1703076)",
+    "name": "CE6810",
+    "asset_no": "H1703076",
+    "row": 98,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 12,
+    "u_bottom": 12,
+    "u_size": 1,
+    "text": "S4128F (H1902243)",
+    "name": "S4128F",
+    "asset_no": "H1902243",
+    "row": 99,
+    "source": "cell"
+   },
+   {
+    "face": "背面",
+    "u_top": 4,
+    "u_bottom": 2,
+    "u_size": 3,
+    "text": "使用不可",
+    "name": "使用不可",
+    "asset_no": "",
+    "row": 107,
+    "source": "cell"
+   }
+  ],
+  "rows": [
+   {
+    "face": "前面",
+    "u": 46,
+    "row": 5,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(前面)"
+   },
+   {
+    "face": "前面",
+    "u": 26,
+    "row": 25,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 7.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 400,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 4,
+      "ports": 1
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "C9300 (H1707967)"
+   },
+   {
+    "face": "前面",
+    "u": 25,
+    "row": 26,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 7.4,
+    "volt": 100,
+    "systems": 1,
+    "watt": 400,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 4,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "C9300 (H1707965)"
+   },
+   {
+    "face": "前面",
+    "u": 21,
+    "row": 30,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 1,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC660 (H2413137)"
+   },
+   {
+    "face": "前面",
+    "u": 20,
+    "row": 31,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 1,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC660 (H2413138)"
+   },
+   {
+    "face": "前面",
+    "u": 19,
+    "row": 32,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 1,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC660 (H2413139)"
+   },
+   {
+    "face": "前面",
+    "u": 17,
+    "row": 34,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607661)"
+   },
+   {
+    "face": "前面",
+    "u": 16,
+    "row": 35,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Nutanix",
+    "usage": null,
+    "note": "電源オフ",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607943)"
+   },
+   {
+    "face": "前面",
+    "u": 15,
+    "row": 36,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": 100,
+    "systems": 2,
+    "watt": 300,
+    "system": "Nutanix",
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 3,
+      "ports": 2
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607945)"
+   },
+   {
+    "face": "前面",
+    "u": 14,
+    "row": 37,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9.5,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": "Nutanix",
+    "usage": null,
+    "note": "電源オフ",
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607944)"
+   },
+   {
+    "face": "前面",
+    "u": 13,
+    "row": 38,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "CE6810 (H1703076)"
+   },
+   {
+    "face": "前面",
+    "u": 12,
+    "row": 39,
+    "mount_kit": "○",
+    "belt": null,
+    "weight": 9,
+    "volt": 100,
+    "systems": 1,
+    "watt": 260,
+    "system": "Nutanix",
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": 1.6,
+      "ports": 1
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "S4128F (H1902243)"
+   },
+   {
+    "face": "前面",
+    "u": 8,
+    "row": 43,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "Precision 7960 Tower （H2509430）"
+   },
+   {
+    "face": "前面",
+    "u": 4,
+    "row": 47,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   },
+   {
+    "face": "背面",
+    "u": 47,
+    "row": 64,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "UTP 12port PatchPnael(背面)"
+   },
+   {
+    "face": "背面",
+    "u": 27,
+    "row": 84,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "C9300 (H1707967)"
+   },
+   {
+    "face": "背面",
+    "u": 26,
+    "row": 85,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "C9300 (H1707965)"
+   },
+   {
+    "face": "背面",
+    "u": 24,
+    "row": 87,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "DNA CENTER (H1808620)"
+   },
+   {
+    "face": "背面",
+    "u": 21,
+    "row": 90,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC660 (H2413137)"
+   },
+   {
+    "face": "背面",
+    "u": 20,
+    "row": 91,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC660 (H2413138)"
+   },
+   {
+    "face": "背面",
+    "u": 19,
+    "row": 92,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC660 (H2413139)"
+   },
+   {
+    "face": "背面",
+    "u": 17,
+    "row": 94,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607661)"
+   },
+   {
+    "face": "背面",
+    "u": 16,
+    "row": 95,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607943)"
+   },
+   {
+    "face": "背面",
+    "u": 15,
+    "row": 96,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607945)"
+   },
+   {
+    "face": "背面",
+    "u": 14,
+    "row": 97,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "XC430 (H1607944)"
+   },
+   {
+    "face": "背面",
+    "u": 13,
+    "row": 98,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "CE6810 (H1703076)"
+   },
+   {
+    "face": "背面",
+    "u": 12,
+    "row": 99,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "S4128F (H1902243)"
+   },
+   {
+    "face": "背面",
+    "u": 4,
+    "row": 107,
+    "mount_kit": null,
+    "belt": null,
+    "weight": null,
+    "volt": null,
+    "systems": null,
+    "watt": null,
+    "system": null,
+    "usage": null,
+    "note": null,
+    "circuits": [
+     {
+      "label": "100V 20A （1）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "100V 20A （2）",
+      "current": null,
+      "ports": null
+     },
+     {
+      "label": "200V 30A （1）",
+      "current": null,
+      "ports": null
+     }
+    ],
+    "cell_text": "使用不可"
+   }
+  ]
+ }
+]
