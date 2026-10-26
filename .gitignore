@@ -18,3 +18,5 @@ gaido_features.json
 /gaido_usage.json
 /gaido_agent_activity.jsonl
 /gaido_agents/
+ai_generated/retrospective/
+ai_generated/proposals/*/rfp_security/
