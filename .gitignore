@@ -20,3 +20,4 @@ gaido_features.json
 /gaido_agents/
 ai_generated/retrospective/
 ai_generated/proposals/*/rfp_security/
+/gaido_progress_user_skill.json
